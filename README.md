@@ -1,2 +1,5 @@
-# Meeting-room-Reservation-System
-MRS: Meeting-room Reservation System
+# MRS
+
+<b>Front-end :</b> ReactJS 
+
+<b>Back-end:</b> PHP
